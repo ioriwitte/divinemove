@@ -9,8 +9,10 @@ Caution 2/3: The center piece of the three finally visble cube sides (blue, yell
 Caution 3/3: The "SOLVE" move also only occasionally snaps back to its initial state (meaning: some colored squared are misplaced).
 
 Credits:
-"SHUFFLE" Audio: milliseconds extract of Mos Def´s "The Embassy" (from his 4th Studio Album "The Ecstatic", 2009)
-"SOLVE" Audio: milliseconds from Sergio Leone resp. Ennio Morricone "Il buono, il brutto, il cattivo" (1966) (L'estasi Dell'oro, Bandini Remix)
+
+"SHUFFLE" Audio: milliseconds extract of Mos Def´s "The Embassy" (from his 4th Studio Album "The Ecstatic", 2009).
+
+"SOLVE" Audio: milliseconds from Sergio Leone resp. Ennio Morricone "Il buono, il brutto, il cattivo" (1966) (L'estasi Dell'oro, Bandini Remix).
 
 Disclaimer: The cube has huge hipster hickups (it`s from Iceland). 
 
